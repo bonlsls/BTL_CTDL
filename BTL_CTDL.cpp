@@ -156,7 +156,7 @@ int main(){
 	GV.readData();
 	
 	while(true){
-		cout << "\nCHUONG TRINH QUAN LY THONG TIN SACH TRONG THU VIEN\n";
+		cout << "\nCHUONG TRINH QUAN LY THONG TIN GiANG VIEN\n";
 		cout << "	1. Them giang vien.\n";
 		cout << "	2. Sua thong tin giang vien.\n";
 		cout << "	3. Xoa thong tin giang vien.\n";
